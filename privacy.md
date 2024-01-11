@@ -7,16 +7,17 @@ Our privacy policy will help you understand what information we collect at *Saku
 We do not collect any personal information. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
-Our App don't collect any information.
+Our App don't collect any personal information.
+We at *Sakura Forever App* use Google Analytics to collect anonymous data. We need this data to understand how you use our app so we can improve its design and functionality. We also need the data to get the most out of our marketing campaigns.
 
 ### Cookies  
-Our App don't use cookies.
+Our App use anonymous Google Analytics cookies.
 
 ### Location Information  
-Our App don't use location information.
+Our App use anonymous Google Analytics location information.
 
 ### Device Information  
-Our App don't use device information.
+Our App use anonymous Google Analytics information.
 
 ### Service Providers  
 Our App don't use Service Providers.
